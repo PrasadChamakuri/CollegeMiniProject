@@ -1,0 +1,2 @@
+# CollegeMiniProject
+Attendance Management System
